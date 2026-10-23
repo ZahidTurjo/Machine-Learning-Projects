@@ -18,7 +18,6 @@ The project follows an end-to-end machine learning workflow, including data expl
 
 - Explore and understand the dataset.
 - Identify missing values and duplicate records.
-- Perform exploratory data analysis (EDA).
 - Separate numerical and categorical features.
 - Build a preprocessing pipeline.
 - Train and compare multiple machine learning algorithms.
